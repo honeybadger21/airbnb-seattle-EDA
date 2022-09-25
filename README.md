@@ -1,2 +1,2 @@
 # airbnb-seattle-EDA
-Exploratory data analysis for AirBnb's across Seattle 
+Exploratory data analysis for AirBnbs across Seattle 
